@@ -1,1 +1,1 @@
-Title
+Social kategorisering och psykisk ohälsa i svensk psykiatri
