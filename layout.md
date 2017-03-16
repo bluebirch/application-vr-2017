@@ -2,4 +2,4 @@
 2-Oversikt.md
 3-Projektbeskrivning.md
 4-Betydelse.md
-5-Prel-resultat.md
+5-Resultat.md
