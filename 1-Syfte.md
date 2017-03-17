@@ -1,5 +1,20 @@
 # Syfte och mål
 
+## Spånskiva
+
+Nu skriver jag bara rakt ur hjärtat.
+
+Syftet med projektet är att undersöka vilka möjligheter personal inom psykiatrin har att förhålla sig till sina patienter på mer än ett sätt. Eller "mångfald av förhållningssätt" som jag formulerade det tidigare, men vi bör nog inte använda ordet "mångfald" på det sättet eftersom det oftast används på andra sätt, som i "mångfaldsarbete". Det finns här nämligen några redan på förhand givna ramar:
+
+1. De psykiatriska diagnoserna som premierar en *medicinsk och individuell* förståelse av psykiskt lidande \cite{Hallerstedt2006,Kaatari2013,Ohlsson2011}. (fler referenser?)
+2. Evidensbegreppet som premierar en *medicinsk, individuell, teknisk och empiristisk* förståelse av psykiskt lidande *och* behandling av psykiska problem (referenser?).
+3. Institutionella ramar i form av organisation ("här arbetar vi bara med ångestproblematik"), processer ("du har en ångestdiagnos, vi kan bara erbjuda den här och den här behandlingen"), IT-system ("jag måste fylla i de här oblikatoriska fälten") och så vidare. (Referenser? Är "institutionella ramar" rätt ord i sammanhanget?)
+4. Organisationskultur \cite{Schein1990} med både implicita och explicita *värderingar* som "värdegrund" och "likabehandlingsplaner" och "jämställd vård" och så vidare.
+
+Och frågan då blir något i still med hur behandlare kan navigera bland alla dessa kategorier (diagnoskategorier, könskategorier, klass, etnicitet, livssammanhang, yada-yada) och leva upp till alla dessa krav och samtidigt bibehålla något slags egen uppfattning av vad ett "professionellt bemötande" och så vidare kan tänkas handla om?
+
+## Inaktuell målformulering
+
 Syftet med föreliggande projekt är att fördjupa förståelsen för betydelsen av social kategorisering i mötet mellan psykiatrisk sjukvårdspersonal och patient. Med social kategorisering avses de sociala processer genom vilka vi tillskriver och tillskrivs kategorier som kön, etnicitet, socioekonomisk klass -- kategorier med historiskt och kulturellt förmedlade innebörder som har betydelse för hur vi förstår och bemöter andra och hur vi förstår oss själva. I detta avseende utgör också psykiatriska diagnoser särskilt kraftfulla sociala kategoriseringar \cite{Karp1996,MagnussonMarecek2010,Ohlsson2011}. Detta avser vi undersöka genom att intervjua psykiatrisk sjukvårdspersonal om deras yrkespraktik och egna reflektioner kring denna. Specifika frågeställningar:
 
 * Med vilka betydelser framträder sociala kategorier som diagnos, kön, klass och etnicitet så som de kommer till uttryck personalens berättelser om sin praktik? Hur förhåller sig de olika betydelserna till varandra?
