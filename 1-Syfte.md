@@ -1,5 +1,11 @@
 # Syfte och mål
 
+## Nytt försök att formulera mål
+
+Den behandlande praktiken i psykiatrisk vård -- till exempel bedömning, utredning, stödsamtal, psykoterapi, psykoedukation -- kringgärdas av ramar av olika slag: organisatoriska, rumsliga, ekonomiska, och så vidare. Här intresserar vi oss framför allt för de *diskurser* som kringgärdar praktiken, alltså de kulturella meningssystem eller "sätt att tala om" en viss företeelse som gör att företeelsen förstås på ett visst sätt och inte ett annat sätt. Ett exempel på en sådan diskurs i psykiatriska sammanhang är det *diagnostiska språket* som premierar en medicinsk och individuell förståelse av människors psykiska lidande framför exempelvis en social, strukturell eller existentiell förståelse \cite{Hallerstedt2006,Kaatari2013,Ohlsson2011}. (Ett annat är strävan efter *evidensbaserade behandlingsmetoder* som premierar en förståelse av såväl psykiskt lidande som behandling i termer av mätbarhet, effekt och symptomlindring \cite{Karlsson2011,Krogstrup2011,Levi2009}.) I kontrast till dessa finns ... *någonting om just sociala/strukturella/existentiella förståelser och en hänvisning till att statistik visar hur diagnoser är snedfördelade avseende på ffa kön & socioekonomisk status/klass vilket antyder annat än medicinska/individuella förståelser av människors lidande*
+
+Syftet med föreliggande projekt är således att ... *begränsningar/möjligheter att... uhm... förhålla sig och navigera mellan alla dessa diskurser (och då krävs nog fler exempel) och samtidigt bibehålla något slags profesionell hållning (där varje yrkeskår har sin egen uppfattning och särskilt psykologer är besvärliga eftersom de kan vara allt mellan hårdföra KBT-materialister och flummiga gestaltterapeuter, men ändå) och dessutom förhålla sig till och aktivt arbeta med likabehandling och yadayadayada nu måste jag åka med barnen till frisören*
+
 ## Spånskiva
 
 Nu skriver jag bara rakt ur hjärtat.
@@ -21,7 +27,7 @@ Diskurser! Det handlar om diskurser! Nu kan diskurser betyda lite vad som helst,
 
 Och fortsättningen måste jag också citera (men det skall förstås inte citeras i den slutliga formuleringen i ansökan):
 
-> Med andra ord: diskurser ger inte bara beteckningar fr objekt och andra fenomen, utan de tillhandahåller också sätt att tala om och förstå dem, samt regler för att använda beteckningarna. En viss diskurs gör det därmed möjligt att förstå ett fenomen på ett visst sätt och omöjligt, elelr i varje fall svårt, att förstå samma fenomen på något annat sätt. I den bemärkelsen kan en diskurs därför sägas skapa eller konstruera fenomenet *som en viss typ av objekt* [...]. Fenomenet "existerade" inte i den speciella bemärkelsen innan just den diskursen framträdde. \cite[][118]{MagnussonMarecek2010}
+> Med andra ord: diskurser ger inte bara beteckningar fr objekt och andra fenomen, utan de tillhandahåller också sätt att tala om och förstå dem, samt regler för att använda beteckningarna. En viss diskurs gör det därmed möjligt att förstå ett fenomen på ett visst sätt och omöjligt, eller i varje fall svårt, att förstå samma fenomen på något annat sätt. I den bemärkelsen kan en diskurs därför sägas skapa eller konstruera fenomenet *som en viss typ av objekt* [...]. Fenomenet "existerade" inte i den speciella bemärkelsen innan just den diskursen framträdde. \cite[][118]{MagnussonMarecek2010}
 
 ## Inaktuell målformulering
 
