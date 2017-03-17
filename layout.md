@@ -4,3 +4,4 @@
 4-Betydelse.md
 5-Resultat.md
 Popul_rvetenskaplig_beskrivning_Den_psykiska__.md
+Abstract__.md
