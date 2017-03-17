@@ -17,7 +17,7 @@ Och frågan då blir något i still med hur behandlare kan navigera bland alla d
 
 Diskurser! Det handlar om diskurser! Nu kan diskurser betyda lite vad som helst, men för att ansluta till Evas definition:
 
-> För våra syften kan *diskurser* kulturella meningsmönster, det vill säga gemensamma sätt att uppfatta ett visst fenomen i en viss kultur eller subkultur, som gör att andra sätt att uppfatta fenomenet verkar mindre troliga. Diskurser är inte enstaka individers sätt att se världen, utan alltid produkter av kulturella processer som delas av många. Diskurser bidrar därigenom till att skapa och upprätthålla till exempel samhälleliga institutioner (som familjen, militären) eller identiteter (som kvinna, man vit). Utryckt med ett ofta felciterat uttalande av Foucault kan diskurser ses som "praktiker som systematiskt formar de objekt som de talar om". \cite[117--118]{MagnussonMarecek2010}
+> För våra syften kan *diskurser* kulturella meningsmönster, det vill säga gemensamma sätt att uppfatta ett visst fenomen i en viss kultur eller subkultur, som gör att andra sätt att uppfatta fenomenet verkar mindre troliga. Diskurser är inte enstaka individers sätt att se världen, utan alltid produkter av kulturella processer som delas av många. Diskurser bidrar därigenom till att skapa och upprätthålla till exempel samhälleliga institutioner (som familjen, militären) eller identiteter (som kvinna, man vit). Utryckt med ett ofta felciterat uttalande av Foucault kan diskurser ses som "praktiker som systematiskt formar de objekt som de talar om". \cite[][117--118]{MagnussonMarecek2010}
 
 ## Inaktuell målformulering
 
