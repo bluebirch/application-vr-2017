@@ -13,6 +13,12 @@ Syftet med projektet är att undersöka vilka möjligheter personal inom psykiat
 
 Och frågan då blir något i still med hur behandlare kan navigera bland alla dessa kategorier (diagnoskategorier, könskategorier, klass, etnicitet, livssammanhang, yada-yada) och leva upp till alla dessa krav och samtidigt bibehålla något slags egen uppfattning av vad ett "professionellt bemötande" och så vidare kan tänkas handla om?
 
+***
+
+Diskurser! Det handlar om diskurser! Nu kan diskurser betyda lite vad som helst, men för att ansluta till Evas definition:
+
+> För våra syften kan *diskurser* kulturella meningsmönster, det vill säga gemensamma sätt att uppfatta ett visst fenomen i en viss kultur eller subkultur, som gör att andra sätt att uppfatta fenomenet verkar mindre troliga. Diskurser är inte enstaka individers sätt att se världen, utan alltid produkter av kulturella processer som delas av många. Diskurser bidrar därigenom till att skapa och upprätthålla till exempel samhälleliga institutioner (som familjen, militären) eller identiteter (som kvinna, man vit). Utryckt med ett ofta felciterat uttalande av Foucault kan diskurser ses som "praktiker som systematiskt formar de objekt som de talar om". \cite[117--118]{MagnussonMarecek2010}
+
 ## Inaktuell målformulering
 
 Syftet med föreliggande projekt är att fördjupa förståelsen för betydelsen av social kategorisering i mötet mellan psykiatrisk sjukvårdspersonal och patient. Med social kategorisering avses de sociala processer genom vilka vi tillskriver och tillskrivs kategorier som kön, etnicitet, socioekonomisk klass -- kategorier med historiskt och kulturellt förmedlade innebörder som har betydelse för hur vi förstår och bemöter andra och hur vi förstår oss själva. I detta avseende utgör också psykiatriska diagnoser särskilt kraftfulla sociala kategoriseringar \cite{Karp1996,MagnussonMarecek2010,Ohlsson2011}. Detta avser vi undersöka genom att intervjua psykiatrisk sjukvårdspersonal om deras yrkespraktik och egna reflektioner kring denna. Specifika frågeställningar:
