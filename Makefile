@@ -9,3 +9,8 @@ refs:
 
 clean:
 	rm -f fulltext.*
+
+push:
+	git add -u
+	git commit -m"Commit of offline edits."
+	git push

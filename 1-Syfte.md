@@ -8,7 +8,7 @@ Syftet med projektet är att undersöka vilka möjligheter personal inom psykiat
 
 1. De psykiatriska diagnoserna som premierar en *medicinsk och individuell* förståelse av psykiskt lidande \cite{Hallerstedt2006,Kaatari2013,Ohlsson2011}. (fler referenser?)
 2. Evidensbegreppet som premierar en *medicinsk, individuell, teknisk och empiristisk* förståelse av psykiskt lidande *och* behandling av psykiska problem \cite{Karlsson2011,Krogstrup2011,Levi2009} (är det rimliga referenser?).
-3. Institutionella ramar i form av organisation ("här arbetar vi bara med ångestproblematik"), processer ("du har en ångestdiagnos, vi kan bara erbjuda den här och den här behandlingen"), IT-system ("jag måste fylla i de här oblikatoriska fälten") och så vidare. (Referenser? Är "institutionella ramar" rätt ord i sammanhanget?)
+3. Institutionella ramar i form av organisation ("här arbetar vi bara med ångestproblematik"), processer ("du har en ångestdiagnos, vi kan bara erbjuda den här och den här behandlingen"), IT-system ("jag måste fylla i de här oblikatoriska fälten") och så vidare. \cite{Ahmed2012,Lauri2016} (Referenser? Är "institutionella ramar" rätt ord i sammanhanget?)
 4. Organisationskultur \cite{Schein1990} med både implicita och explicita *värderingar* som "värdegrund" och "likabehandlingsplaner" och "jämställd vård" och så vidare.
 
 Och frågan då blir något i still med hur behandlare kan navigera bland alla dessa kategorier (diagnoskategorier, könskategorier, klass, etnicitet, livssammanhang, yada-yada) och leva upp till alla dessa krav och samtidigt bibehålla något slags egen uppfattning av vad ett "professionellt bemötande" och så vidare kan tänkas handla om?
