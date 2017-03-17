@@ -2,7 +2,7 @@ bib=bibliography/biblio.bib
 
 all: $(bib) fulltext.pdf fulltext.docx
 
-fulltext.%: meta.yaml $(shell cat layout.md) refs.md $(bib)
+fulltext.%: meta.yaml $(shell cat layout.md) refs.md
 	pandoc -f markdown -o $@ -F bin/authorea-citations-filter --bibliography $(bib) --number-sections --smart --self-contained --latex-engine=xelatex $+
 
 refs:
