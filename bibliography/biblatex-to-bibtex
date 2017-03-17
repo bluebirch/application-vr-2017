@@ -1,2 +1,0 @@
-#!/bin/sh
-biber --tool --configfile=biblatex-to-bibtex.conf --output-resolve --output-file=biblio.bib biblio-biblatex.bib

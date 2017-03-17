@@ -5,7 +5,7 @@ fulltext.%: meta.yaml $(shell cat layout.md) refs.md
 
 refs:
 	bibcheck --sort bibliography/biblio-biblatex.bib
-	biber --tool --configfile=bibliography/biblatex-to-bibtex.conf --output-resolve --output-file=bibliography/biblio.bib bibliography/biblio-biblatex.bib
+	biber --tool --configfile=etc/biblatex-to-bibtex.conf --output-resolve --output-file=bibliography/biblio.bib bibliography/biblio-biblatex.bib
 
 clean:
 	rm -f fulltext.*
