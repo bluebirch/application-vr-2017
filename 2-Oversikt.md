@@ -3,7 +3,7 @@
 Gör ett sammandrag av din egen och andras forskning och tidigare resultat inom forskningsområdet. Ange nyckelreferenser. 
 
 ## Psykitriska diagnoser:
-Egen forskning: Björk 2016; Magnusson 2010, 2011; Ohlsson 2009, 2011, 2016, Karlsson (?)
+Egen forskning: Magnusson 2010, 2011; Ohlsson 2009, 2011, 2016, 
 
 Nyckelreferenser: Hallerstedt 2006 (Diagnosens makt), Foucault 2010, 
 
