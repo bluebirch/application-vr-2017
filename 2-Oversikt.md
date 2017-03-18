@@ -6,5 +6,5 @@ Egen forskning: Björk 2016; Magnusson 2010, 2011; Ohlsson 2009, 2011, 2016, Kar
 
 Nyckelreferenser: Hallerstedt 2006 (Diagnosens makt), Foucault 2010, 
 
-Övriga: Horowitz, Brante, Marecek, Johannisson, Sveneaus, Conrad, Caplan, Eskner-Skoger...
+Övriga: Horowitz, Brante, Marecek, Johannisson, Sveneaus, Conrad, Caplan, Eskner-Skoger (Biomedicinsk modell Chavez & Insel)...
 
