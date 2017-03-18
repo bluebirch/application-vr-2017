@@ -8,7 +8,7 @@ Syftet: med föreliggande projektförslag är att undersöka och beskriva vilka 
 
 Specifika frågeställningar:
 * *Vilka möjligheter har sjukvårdspersonalen att navigera och mellan olika förståeler av sina patienters psykiska ohälsa: medicinska, psykologiska och sociala?* 
-* 
+
 * *Hur gör sjukvårdspersonalen för att eftersträva en god och jämlik vård för alla patienter?* 
 
    ”En god hälsa och en vård på lika villkor för hela befolkningen” (HSL, 2 §), är en målsättning för sjukvården i hälso och sjukvårdslagen. Utöver denna övergripande               målsättning har många vårdorganisationer även lokala policys och riktlinjer avseende exempelvis jämställdhet, likebhehandling eller mångfald (t ex: Stockholms läns landsting,     2006, 2011, 2014-16). Frågeställningen syftar till ett belysa hur dessa ideal "landar" hos sjukvårdspersonalen och kommer till uttryck i patientkontakten.
