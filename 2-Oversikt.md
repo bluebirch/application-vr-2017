@@ -5,8 +5,11 @@ Psykisk ohälsa, som socialt och samhälleligt fenomen, är ett välutforskad om
 Den samlade kunskapen kring psykisk ohälsa som sociokulturellt fenomen, och som en social kategori med starka kopplingar till andra former av sociala kategoriseringar, är således omfattande. Forskning som undersökt betydelsen av dessa synsätt kring psykisk ohälsa i relation till den psykiatriska sjukvården, är däremot ytterst sällsynt. Medan flera svenska studier de senaste deccennierna har fokuserat på sjukvårdens bemötande av patienter utifrån genus-, jämlikhets- eller rättviseaspekter, saknas väsentligen studier som har utforskat denna typ av frågor specifikt i relation till psykiatrin (Björk, 2016; Hammarström, 1999; Hedegaard, 2014; Westerståhl, 2003). Å ena sidan utgör psykiatrin en mindre del av den övergripande sjukvårdskontexten, men de psykiatriska diagnosernas sociokulturella dimensioner, deras framträdande kopplingar till sociala kategorier som kön, etnicitet och socioekonomisk status, samt avsaknaden av kända fysiologiska/biologiska orsaksmekanismer bakom de vanligast förekommande psykiatriska sjukdomskoncepten (REF??), gör psykiatrin till en sjukvårdskontext som även särskiljer sig från sjukvården som helhet. 
 
 Relevansen för området av stefans forskning + annat (psykolog)
+
 Gunnar
+
 Eva
+
 Robert
 
 
