@@ -13,9 +13,9 @@ Specifika frågeställningar:
 ”En god hälsa och en vård på lika villkor för hela befolkningen”, är en målsättning för sjukvården i Hälso och sjukvårdslagen (HSL, 2 §). Utöver denna övergripande               målsättning har många vårdorganisationer även framtagit lokala policys och riktlinjer avseende exempelvis jämställdhet, likebhehandling eller mångfald (t ex: Stockholms läns landsting, 2006, 2011, 2014-16). Frågeställningen syftar till ett belysa hur dessa ideal "landar" hos sjukvårdspersonalen och kommer till uttryck i patientkontakten.
   
 * *Hur förstår och förhåller sig sjukvårdspersonalen till den pykiska ohälsans ojämna fördelning mellan personer tillhörande olika sociala kategorseringar?*
-De omfattande skillnaderna avseende förekomsten av psykisk ohälsa mellan personer tillhörande olika sociala kategorier utifrån exempelvis kön, sexuell läggning, könsuttryck, etnicitet, socioekonomisk status och så vidare, har påvisats återkommande i nationella utredningar och forsknungsöversikter (Socialstyrelsen, 2013; Statens folkhälsoinstitut, 2005; SOU, 2006, 2015; SKL, 2014; Ungdomsstyrelsen, 2010). 
+De omfattande skillnaderna avseende förekomsten av psykisk ohälsa mellan personer tillhörande olika sociala kategorier utifrån exempelvis kön, sexuell läggning, könsuttryck, etnicitet, socioekonomisk status och så vidare, har påvisats återkommande i nationella utredningar och forskningsöversikter (Socialstyrelsen, 2013; Statens folkhälsoinstitut, 2005; SOU, 2006, 2015; SKL, 2014; Ungdomsstyrelsen, 2010). 
     
-* *Hur är olika synsätt kring psykisk ohälsa: medicinska, psykologiska och sociala, relaterade till sjukvårdspersonalens uppfattningar om vad ett professionellt förhållningssätt ska innebära.* 
-*
-* *... något om de känslomässiga aspekterna - jag vet inte hur det ska formuleras riktigt. Det känns som att det kommer in lite off här - när vi fokuserat så mkt på diskurserna hittills...*
+* *Hur är olika synsätt kring psykisk ohälsa: medicinska, psykologiska och sociala, relaterade till sjukvårdspersonalens uppfattningar om vad ett professionellt förhållningssätt ska innebära.*
+
+* *Vilka känslomässigt färgade upplevelser är i sjukvårdspersonalens berättande associerade med att arbeta utifrån medicinska, psykologiska och sociala betydelser av psykisk ohälsa*
 
