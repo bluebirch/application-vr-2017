@@ -9,6 +9,7 @@ Nyckelreferenser: Hallerstedt 2006 (Diagnosens makt), Foucault 2010,
 Övriga: Horowitz, Brante, Marecek, Johannisson, Sveneaus, Conrad, Caplan, (Biomedicinsk modell Chavez & Insel)...
 
 Bemötande i sjukvård/psykoterapi/psykiatri:
+
 Egen forskning: Björk 2016 (sjukvård), 
 Nyckelreferenser: 
 Övriga: Eskner Skoger 2015 (psykiatri + skola), Westerståhl 2003 (sjukvård), Hedegaard 2014 (sjukvård), 
