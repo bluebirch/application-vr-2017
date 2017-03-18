@@ -7,8 +7,8 @@ Oftast förstås patientens lidande på mer än ett sätt samtidigt, men det ino
 Syftet: med föreliggande projektförslag är att undersöka och beskriva vilka förutsättningar psykiatrisk sjukvårdspersonal har för att kunna uppfatta och bemöta sina patienters psykiska lidande utifrån såväl medicinska, som psykologiska eller sociala förståelsemodeller. 
 
 Specifika frågeställningar:
-* Vilka möjligheter har sjukvårdspersonalen att navigera och mellan _olika _förståeler av sina patienters psykiska ohälsa: medicinska, psykologiska och sociala? 
-* Hur gör sjukvårdspersonalen för att eftersträva en god och jämlik vård för alla patienter? (_Här skulle en kunna lägga till hälso- och sjukvårdslagen eller lokala policys om det behöver förtydligas VARFÖR sjukvårdspersonalen skulle vilja eller böra detta. Förtydliga att det liksom ingår i deras uppdrag som sjukvårspersonal). _
+* Vilka möjligheter har sjukvårdspersonalen att navigera och mellan *olika* förståeler av sina patienters psykiska ohälsa: medicinska, psykologiska och sociala? 
+* Hur gör sjukvårdspersonalen för att eftersträva en god och jämlik vård för alla patienter? (*Här skulle en kunna lägga till hälso- och sjukvårdslagen eller lokala policys om det behöver förtydligas VARFÖR sjukvårdspersonalen skulle vilja eller böra detta. Förtydliga att det liksom ingår i deras uppdrag som sjukvårspersonal).*
 * Hur förstår och förhåller sig sjukvårdspersonalen till den pykiska ohälsans ojämna fördelning mellan personer tillhörande olika sociala kategorseringar (utifrån exempelvis kön, etnicitet, socioekonmisk status, sexualitet och könsidentitet, funktionsnedsättning, ålder och så vidare) (Socialstyrelsen, 2013; Statens folkhälsoinstitut, 2005; SOU, 2006, 2015; SKL, 2014; Ungdomsstyrelsen, 2010). 
 * Hur är olika synsätt kring psykisk ohälsa: medicinska, psykologiska och sociala, relaterade till sjukvårdspersonalens uppfattningar om vad ett professionellt förhållningssätt ska innebära. 
 * ... något om de känslomässiga aspekterna - jag vet inte hur det ska formuleras riktigt. Det känns som att det kommer in lite off här - när vi fokuserat så mkt på diskurserna hittills...
