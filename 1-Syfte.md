@@ -4,8 +4,6 @@ Till psykiatrin kommer som regel människor med ett psykiskt lidande.[^1] Detta 
 
 Oftast förstås patientens lidande på mer än ett sätt samtidigt, men det inom psykiatrin dominerande *diagnostiska språket* \cite{DSM-5,ICD-10} premierar individuella, medicinska förståelser på bekostnad av sociala och sociokulturella \cite{Hallerstedt2006,Johannisson2013,Johannison2015,Sveneaus2015,Sveneaus2016}. Som regel är en psykiatrisk diagnos förutsättningen för att få hjälp inom psykiatrin över huvud taget, inte minst för att den psykiatriska verksamheten på många håll i Sverige är organiserad utifrån patienternas  diagnoser. Psykiskt lidande som i första hand har att göra med patientens sociala omständigheter och livssituation riskerar därför att *medikaliseras* \cite{Conrad2008,Kaatari2013, Parens & Johnston,2011,Bell2016). 
 
-*Syftet* med föreliggande projekt är att fördjupa förståelsen av hur behandlande personal inom svensk psykiatrisk vård navigerar mellan olika förståelser[^3] av sina patienters psykiska ohälsa. 
-
 Specifika frågeställningar:
 * Vilka möjligheter har sjukvårdspersonalen att navigera och mellan _olika _förståeler av sina patienters psykiska ohälsa: medicinska, psykologiska och sociala? 
 * Hur gör sjukvårdspersonalen för att eftersträva en god och jämlik vård för alla patienter? (_Här skulle en kunna lägga till hälso- och sjukvårdslagen eller lokala policys om det behöver förtydligas VARFÖR sjukvårdspersonalen skulle vilja eller böra detta. Förtydliga att det liksom ingår i deras uppdrag som sjukvårspersonal). _
