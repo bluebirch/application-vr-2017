@@ -4,7 +4,7 @@ Till psykiatrin kommer som regel människor med ett psykiskt lidande.[^1] Detta 
 
 Oftast förstås patientens lidande på mer än ett sätt samtidigt, men det inom psykiatrin dominerande *diagnostiska språket* \cite{DSM-5,ICD-10} premierar individuella, medicinska förståelser på bekostnad av sociala och sociokulturella \cite{Hallerstedt2006,Johannisson2013,Johannison2015,Sveneaus2015,Sveneaus2016}. Som regel är en psykiatrisk diagnos förutsättningen för att få hjälp inom psykiatrin över huvud taget, inte minst för att den psykiatriska verksamheten på många håll i Sverige är organiserad utifrån diagnoser. Även psykiskt lidande som i första hand har att göra med patientens sociala omständigheter och livssituation riskerar därför att individualiseras och *medikaliseras* \cite{Conrad2008,Kaatari2013, Parens & Johnston,2011,Bell2016). 
 
-Syftet: med föreliggande projektförslag är att undersöka och beskriva vilka förutsättningar psykiatrisk sjukvårdspersonal har att kunna uppfatta och bemöta sina patienters psykiska lidande utifrån såväl medicinska, som psykologiska och sociala förståelsemodeller. 
+Syftet: med föreliggande projektförslag är att undersöka och beskriva vilka förutsättningar psykiatrisk sjukvårdspersonal har att kunna uppfatta och bemöta sina patienters psykiska lidande utifrån såväl medicinska, som psykologiska och sociala förståelsemodeller. Detta ska undersökas i relation till sjukvårdens uppdrag om 
 
 Specifika frågeställningar:
 * *Vilka möjligheter har sjukvårdspersonalen att navigera och mellan olika förståeler av sina patienters psykiska ohälsa: medicinska, psykologiska och sociala?* 
