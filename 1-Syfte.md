@@ -8,10 +8,16 @@ Syftet: med föreliggande projektförslag är att undersöka och beskriva vilka 
 
 Specifika frågeställningar:
 * *Vilka möjligheter har sjukvårdspersonalen att navigera och mellan olika förståeler av sina patienters psykiska ohälsa: medicinska, psykologiska och sociala?* 
+* 
 * *Hur gör sjukvårdspersonalen för att eftersträva en god och jämlik vård för alla patienter?* 
-   ”En god hälsa och en vård på lika villkor för hela befolkningen” (HSL, 2 §), är en målsättning för sjukvården i hälso och sjukvårdslagen. Utöver denna övergripande               målsättning har många vårdorganisationer även lokala policys och riktlinjer avseende exempelvis jämställdhet, likebhehandling eller mångfald (t ex: Stockholms läns landsting,     2006, 2011, 2014-16). Frågeställningen syftar till ett belysa hur dessa ideal "landar" hos sjukvårdspersonalen och kommer till uttryck i patientkontakten. 
+
+   ”En god hälsa och en vård på lika villkor för hela befolkningen” (HSL, 2 §), är en målsättning för sjukvården i hälso och sjukvårdslagen. Utöver denna övergripande               målsättning har många vårdorganisationer även lokala policys och riktlinjer avseende exempelvis jämställdhet, likebhehandling eller mångfald (t ex: Stockholms läns landsting,     2006, 2011, 2014-16). Frågeställningen syftar till ett belysa hur dessa ideal "landar" hos sjukvårdspersonalen och kommer till uttryck i patientkontakten.
+  
 * *Hur förstår och förhåller sig sjukvårdspersonalen till den pykiska ohälsans ojämna fördelning mellan personer tillhörande olika sociala kategorseringar (utifrån exempelvis       kön, etnicitet, socioekonmisk status, sexualitet och könsidentitet, funktionsnedsättning, ålder och så vidare.* 
+
     (Socialstyrelsen, 2013; Statens folkhälsoinstitut, 2005; SOU, 2006, 2015; SKL, 2014; Ungdomsstyrelsen, 2010). 
+    
 * *Hur är olika synsätt kring psykisk ohälsa: medicinska, psykologiska och sociala, relaterade till sjukvårdspersonalens uppfattningar om vad ett professionellt förhållningssätt ska innebära.* 
+*
 * *... något om de känslomässiga aspekterna - jag vet inte hur det ska formuleras riktigt. Det känns som att det kommer in lite off här - när vi fokuserat så mkt på diskurserna hittills...*
 
