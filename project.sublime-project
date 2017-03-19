@@ -4,5 +4,18 @@
 		{
 			"path": "."
 		}
-	]
+	],
+    "build_systems":
+    [
+        {
+            "name": "Build",
+            "shell_cmd": "make -j -B",
+            "working_dir": "${project_path}"
+        },
+        {
+            "name": "Check bibliography",
+            "shell_cmd": "make refs",
+            "working_dir": "${project_path}"
+        },
+    ]
 }
