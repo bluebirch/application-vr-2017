@@ -18,5 +18,5 @@ Omfattande skillnader avseende förekomsten av psykisk ohälsa mellan personer t
     
 * *Hur är olika synsätt kring psykisk ohälsa, relaterade till utredarna och behandlarna uppfattningar om vad ett professionellt förhållningssätt ska innebära.*
 
-* *Vilka känslomässigt färgade upplevelser är i utredarna och behandlarna berättande associerade med att arbeta utifrån medicinska, psykologiska och sociala betydelser av psykisk ohälsa*
+* *Vilka känslomässigt färgade upplevelser är i utredarnas och behandlarnas berättande associerade med att arbeta utifrån olika förståelser av psykisk ohälsa*
 
