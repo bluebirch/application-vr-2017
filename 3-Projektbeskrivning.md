@@ -20,6 +20,8 @@ Ahmed, S. (2006) Queer Phenomenology - Orientations, Objects, Others. London: Du
 
 Ahmed, S. (2011) Vithetens hegemoni. Hägersten: Tankekraft. 
 
+Crenshaw, K. (1991) Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Colour.  Stanford Law Review, vol. 43 (nr 6) s. 1241 - 1299
+
 de los Reyes, P. & Mulinari, D. (2005) Intersektionalitet - Kritiska reflektioner över (o)jämlikhetens landskap. Malmö: Liber
 
 Schmitt, I. (2011) Om begreppens klibbighet – En intersektionell analys av jämställdhets-, likabehandlings- och mångfaldspolicy på Lunds universitet. I Sandell, K. (red) 2011.
