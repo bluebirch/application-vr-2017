@@ -24,7 +24,7 @@ Hammarström, A. (1999)”Why feminism in public health?” Temanummer. Feminist
 
 Karlsson, G. (1999). Leva som blind: Fenomenologisk-psykologiska undersökningar. Stockholm: Carlsson Bokförlag
 
-*Karlsson, G. (2014). Masculinity as project: Some psychoanalytic reflections. NORMA: International Journal for Masculinity Studies, 9, no. 4, 249-268. (Denna artikel kommer också att publiceras i Teksty Drugie (Second Texts), vol. 2, 2015.)
+Karlsson, G. (2014). Masculinity as project: Some psychoanalytic reflections. NORMA: International Journal for Masculinity Studies, 9, no. 4, 249-268. (Denna artikel kommer också att publiceras i Teksty Drugie (Second Texts), vol. 2, 2015.)
 
 Karlsson, G. (2016) Phallic stage. In V. Zeigler-Hill & T.K. Schackleford (eds.), Encyclopedia of personality and individual differences. Springer International Publishing. 
 
@@ -49,5 +49,6 @@ Bell, A. (2016) The margins of medicalization: Diversity and context through the
 Parens, E & Johnston, J (2011) Troubled Children: Diagnosing, Treating, and Attending to Context. Hastings Center Report, 2011, Vol.41(2), pp S4-S31
 
 Francis, A. (2013) Essentials of Psychiatric Diagnosis - Responding to the Challange of DSM-V. New York: Guilford Publications
+
 Magnusson, E. (2003) Genusforskning inom psykologin – bidrag till psykologisk teori och praktik. Högskoleverket
 
