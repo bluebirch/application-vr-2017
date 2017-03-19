@@ -11,24 +11,7 @@ Här tror jag vi får vi hjälpas åt, dels med hur jag ska beskriva din forskni
 
 *Stefan Björk* har i sin doktorsavhandling undersökt patient/behandlar-möten inom mödrahälsovården med fokus på blivande pappors upplevelser. MER! Han är även utbildad psykolog. *Gunnar Karlsson* har studerat hälso- och sjukdomskoncept, i relation till självuppelvelse och identitetsutveckling, hos exmpelvis blinda personer och personer med erfarenhet av psykos (Karlsson 1999, 2011). För närvarande leder han ett forskningsprojekt kring socialisering, identitetsutveckling och maskuliniteter (Karlsson, 2014, 2016). Karlsson är även privatpraktiserande psykolog, psykoterapeut och psykoanalytiker, och har i relation till detta studerat vetenskapsteoretiska frågor kring psykisk ohälsa och behandling (Karlsson, 2004, 2009, 2011). *Eva Magnussons* forskning har handlat om psykologiämnets förståelser av, och sätt att hantera, frågor relaterade till social kategorisering utifrån kön, sexuell läggning, etnicitet och socioekonomisk status. Ett centralt och återkommande tema i Magnussons forskning är ontologiska och epistemologiska frågor relaterade till psykologi och på vilket sätt dessa är särskilt centrala och relevanta i relation till forskning som hanldar, eller utgår ifrån, någon form av social kategorisering (Magnusson, t ex: 2002, 2003, 2010, 2011, 2015), . *Robert Ohlssons* forskning har handlat om psykisk ohälsa, som samhälleligt och relationellt fenomen och som en form av social kategorisering med mycket stor betydelse för människors självupplevelse och identitetsutveckling (Ohlsson, 2009, 2011, in press). 
 
-
-
-
-
-
 ## Psykitriska diagnoser:
-Egen forskning: Magnusson 2010, 2011; Ohlsson 2009, 2011, 2016, 
-
-Nyckelreferenser: Hallerstedt 2006 (Diagnosens makt), Foucault 2010, 
-
-Övriga: Horowitz, Brante, Marecek, Johannisson, Sveneaus, Conrad, Caplan, (Biomedicinsk modell Chavez & Insel)...
-
-## Bemötande i sjukvård/psykoterapi/psykiatri
-Egen forskning: Björk 2016 (sjukvård), 
-
-Nyckelreferenser: 
-
-Övriga: Eskner Skoger 2015 (psykiatri + skola), Westerståhl 2003 (sjukvård), Hedegaard 2014 (sjukvård), (+ en massa äldre texter om psykoterpeutiska relationer) 
 
 Marecek, J. (2006). Social Suffering, Gender, and Women’s Depression. In C. L. M. Keyes & S. H. Goodman (Eds.), Women and Depression: A Handbook for the Social, Behavioral, and Biomedical Sciences (pp. 283–308). New York: Cambridge University Press.
 
