@@ -1,6 +1,6 @@
 # Preliminära resultat
 
-Björk... det här får nog du skriva - det blir svårt för mig. 
+Björk...  
 
 Karlssons...
 
