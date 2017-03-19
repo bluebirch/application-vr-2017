@@ -14,12 +14,7 @@ Datan ska samlas in genom cirka tio till femton enskilda intervjuer med utredare
 
 Det första halvåret av projekttiden kommer huvudsakligen att användas till planering, utformning av intervjuguiden, till att identifiera och ta kontakt med potentiella deltagare och till genomförande av pilotintervjuer. Under år ett till två ska samtliga intervjuer genomföras. Analysen av materialet ska påbörjas efterhand som intervjuerna genomförs och transkriberas. På det sättet kommer förståelsen av de frågor som ska undersökas att växa successivt, redan från projektets början. Under år två till tre kommer tyngdpunkten av arbetet ligga vid analysen av intervjumaterialet, medan arbetet med rapporteringen av resultaten ska påbörjas under år tre och slutföras huvudsakligen under projektets fjärde och sista år. 
 
-
-(Nya) Referenser
-
-
-
-Crenshaw, K. (1991) Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Colour.  Stanford Law Review, vol. 43 (nr 6) s. 1241 - 1299
+Kvarvarande referenser
 
 de los Reyes, P. & Mulinari, D. (2005) Intersektionalitet - Kritiska reflektioner över (o)jämlikhetens landskap. Malmö: Liber
 
