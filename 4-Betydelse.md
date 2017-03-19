@@ -1,6 +1,6 @@
 # Betydelse
 
-Den svenska psykiatrihistorien har, i likhet med hur utvecklingen sett ut även i andra länder, omväxlande influerats av exempelvis psykologiska, medicinska eller psykosociala förståelser av den psykiska ohälsan (Magnusson, 2010; Markström, 2003; Uddenberg, 2010). Under de senaste deccennierna har en tydlig tendens till ökad medikalisering inom det psykiatriska fältet uppmärksammats inom såväl svensk som internationell forskning  (Conrad, 2007; Johannisson, 1990; Kaatari, 2013; Topor, 2010; 
+Den svenska psykiatrihistorien har, i likhet med hur utvecklingen sett ut även i andra länder, omväxlande influerats av exempelvis psykologiska, medicinska eller psykosociala förståelser av den psykiska ohälsan (Magnusson, 2010; Markström, 2003; Uddenberg, 2010). Under de senaste deccennierna har en tydlig tendens till ökad medikalisering inom det psykiatriska fältet uppmärksammats inom såväl svensk som internationell forskning  (Bell, 2016; Conrad, 2007; Johannisson, 1990; Kaatari, 2013; Karlssonm 2011; Parens & Johnston, 2016; Topor, 2010). 
 
 
 * I relation till läkemedelsbehandling av psykisk ohälsa
