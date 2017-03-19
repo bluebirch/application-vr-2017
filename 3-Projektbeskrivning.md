@@ -11,6 +11,7 @@ Projektets deltagare kommer att vara Gunnar Karlsson - med 15 % tjänstgöringsg
 
 Datan ska samlas in genom cirka tio till femton enskilda intervjuer med utredare och behandlare inom den psykiatriska sjukvården. Dessa kan tillhöra olika professioner, de kan vara anställda inom olika typer av verksamheter (inom ramen för psykiatrisk sjukvård) och de kan arbeta i olika delar av landet. Intervjuerna ska vara en timma långa och ske på av deltagarna vald plats. Ett förhållandevis litet urval är tillräckligt för studien utifrån det övergripande syftet och de specifika frågeställningarna, vidare kommer dataanalysen vara omfattande och vilket kräver en begränsad mängd data. Intervjuerna ska genomföras och transkriberas av doktoranden. Karlsson och Björk kommer att medverka vid framtagningen av intervjuguiden samt vid analysen av den insamlade datan. Karlsson kommer även att fungera som doktorandens huvudhandledare. En etikprövning ska göra innan datainsamlingen kan påbörjas. Rapportskrivningen ska göras av doktoranden i sambarbete framförallt med Björk. Resultaten ska publiceras såväl inom Sverige som internationellt. 
 
+Tidsplan...
 
 (Nya) Referenser
 
