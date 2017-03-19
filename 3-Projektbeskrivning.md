@@ -6,9 +6,8 @@ Frågeställningarna kommer att belysas utifrån ett antal övergripande teoreti
 ## Metoder 
 I relation till de ovan nämnda teoretiska perspektiven ska specifika teoreier och metoder för datainsamlig och -analys tillämpas. Den övergripande metodologiska ansatsen kommer att vara diskursanalytisk. För att undersöka hur utredarna och behandlarna navigerar mellan olika förståelser av psykisk ohälsa, inte minst i relation till andra typer av sociala kategoriseringar, kommer fokus analytiskt fokus ligga på hur de väljer mellan konkurrerande diskurser. Vid denna analys kommer till exempel ansatser av Edley (2001), Wetherell (1998), Wetherell & Potter (1987, 1992), samt Magnusson & Marecek, (2015) tillämpas. Behandlarnas institutionella förutsättningar för att tänka kring psykisk ohälsa utifrån olika perspektiv, och de eventuella dilemman som de institutionella ramarna medför, ska utforskas med hjälp av Sara Ahmeds (2015) beskrivningar av möjligheterna och hindren för att utföra mångfaldsarbete i institutionella kontexter. Analytiskt fokus kommer även att ligga vid Ahmeds (2004, 2006, 2011) konceptualiseringar av de sociala och emotionella betydelserna av social katgorisering. 
 
-
 ## Tidsplan och genomförande
-
+Datan ska samlas in genom cirka tio till femton enskilda intervjuer med utredare och behandlare inom den psykiatriska sjukvården. Dessa kan tillhöra olika professioner, de kan vara anställda inom olika typer av verksamheter inom ramen för psykiatrisk sjukvård och de kan arbeta i olika delar av landet. Intervjuerna ska vara cirka en timma långa och ske på, av deltagarna, vald plats. Ett förhållandevis litet urval är tillräckligt för studien utifrån det övergripande syftet och de specifika frågeställningarna, vidare kommer 
 
 (Nya) Referenser
 
