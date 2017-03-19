@@ -1,4 +1,3 @@
 # Betydelse
 
-
- 
+Medan flertalet studier, utredningar och forskningsöversikter de senaste decceninnerna har undersökt sjukvården i relation till sociala jämlikhetsaspekter saknas ännu väsentligen studier som utforskat dessa frågor specifikt i relation till den psykiatriska sjukvården. Föreliggande projekförslag syftar till att fylla ut denna kunskapslucka. Genom att fokusera på hur utredare och behandlare inom psykiatrin förstår och hanterar social kategorisering i relation till sina patienter, samt hur de navigerar mellan *olika* förståelser av det psykiska lidandet, ska projektet besvara frågan om hur målsättningar kring jämställdhet och social rättvisa "landar" hos utredarna och behandlarna och kommer till uttryck i deras praktiska patientarbete. Således kan studien vara av värde för anställda inom sjukvården som vill arbeta med behandling av psykisk ohälsa utifrån en likavärdesprincip, samt för personer som har till uppgift att utveckla sjukvården i riktning mot lika villkor eller ökad rättvisa - *i praktiken såväl som i teorin*. 
