@@ -8,7 +8,7 @@ Syftet med föreliggande projekt är att fördjupa förståelsen för hur utreda
 
 Specifika frågeställningar:
 
-* *Vilka möjligheter har utredarna och behandlarna att navigera och mellan olika förståeler av sina patienters psykiska ohälsa: medicinska, psykologiska och sociala?* 
+* *Vilka möjligheter har utredarna och behandlarna att navigera och mellan olika förståeler av sina patienters psykiska ohälsa, exempelvis medicinska, psykologiska och sociala?* 
 
 * *Hur gör utredarna och behandlarna för att eftersträva en god och jämlik vård för alla patienter?* 
 ”En god hälsa och en vård på lika villkor för hela befolkningen”, är en målsättning för sjukvården i Hälso och sjukvårdslagen (HSL, 2 §). Utöver denna övergripande               målsättning har många vårdorganisationer även framtagit lokala policys och riktlinjer avseende exempelvis jämställdhet, likebhehandling eller mångfald (t ex: Stockholms läns landsting, 2006, 2011, 2014-16). Frågeställningen syftar till ett belysa hur dessa ideal och målsättningar "landar" hos sjukvårdspersonalen och kommer till uttryck i patientkontakten.
@@ -16,7 +16,7 @@ Specifika frågeställningar:
 * *Hur förstår och förhåller sig utredarna och behandlarna till den pykiska ohälsans ojämna fördelning mellan personer tillhörande olika sociala kategorseringar?*
 Omfattande skillnader avseende förekomsten av psykisk ohälsa mellan personer tillhörande olika sociala kategorier utifrån exempelvis kön, sexuell läggning, könsuttryck, etnicitet, socioekonomisk status och så vidare, har påvisats återkommande i nationella utredningar och forskningsöversikter (Socialstyrelsen, 2013; Statens folkhälsoinstitut, 2005; SOU, 2006, 2015; SKL, 2014; Ungdomsstyrelsen, 2010). 
     
-* *Hur är olika synsätt kring psykisk ohälsa: medicinska, psykologiska och sociala, relaterade till utredarna och behandlarna uppfattningar om vad ett professionellt förhållningssätt ska innebära.*
+* *Hur är olika synsätt kring psykisk ohälsa, relaterade till utredarna och behandlarna uppfattningar om vad ett professionellt förhållningssätt ska innebära.*
 
 * *Vilka känslomässigt färgade upplevelser är i utredarna och behandlarna berättande associerade med att arbeta utifrån medicinska, psykologiska och sociala betydelser av psykisk ohälsa*
 
