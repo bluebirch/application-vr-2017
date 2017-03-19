@@ -1,5 +1,7 @@
 # Betydelse
 
+> Redogör för projektets betydelse för forskningsområdet.
+
 Under de senaste deccennierna har en tydlig tendens till ökad medikalisering inom det psykiatriska fältet uppmärksammats inom såväl svensk som internationell forskning  (Bell, 2016; Conrad, 2007; Johannisson, 1990; Kaatari, 2013; Karlsson 2011; Magnusson, 2010; Parens & Johnston, 2016; Topor, 2010). Denna har varit tydlig bland annat genom det ökande antalet psykiatriska diagnoser, och den ökande prevalensen av psykisk ohälsa i befolkningen (Frances, A), genom det ökande inflytandet av evidensbegreppet (Karlsson, 2011; Topor, 2010), 
 
 
