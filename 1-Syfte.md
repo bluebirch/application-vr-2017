@@ -16,7 +16,7 @@ Specifika frågeställningar:
 * *Hur förstår och förhåller sig utredarna och behandlarna till den pykiska ohälsans ojämna fördelning mellan personer tillhörande olika sociala kategorseringar?*
 Omfattande skillnader avseende förekomsten av psykisk ohälsa mellan personer tillhörande olika sociala kategorier utifrån exempelvis kön, sexuell läggning, könsuttryck, etnicitet, socioekonomisk status och så vidare, har påvisats återkommande i nationella utredningar och forskningsöversikter (Socialstyrelsen, 2013; Statens folkhälsoinstitut, 2005; SOU, 2006, 2015; SKL, 2014; Ungdomsstyrelsen, 2010). 
     
-* *Hur är olika synsätt kring psykisk ohälsa, relaterade till utredarnas och behandlarnas uppfattningar om vad ett professionellt förhållningssätt ska innebära.*
+* *Hur är olika synsätt kring psykisk ohälsa, relaterade till utredarna och behandlarna uppfattningar om vad ett professionellt förhållningssätt ska innebära.*
 
 * *Vilka känslomässigt färgade upplevelser är i utredarnas och behandlarnas berättande associerade med att arbeta utifrån olika förståelser av psykisk ohälsa*
 
