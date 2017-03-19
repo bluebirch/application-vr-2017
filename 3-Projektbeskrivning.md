@@ -1,5 +1,7 @@
 # Projektbeskrivning
 
+> Gör en sammanfattning av projektet där du beskriver teori, metod, tidplan och genomförande. Beskriv även projektorganisationen och förtydliga din egen och eventuella medverkande forskares roller i projektet (här kan du även beskriva eventuella ytterligare forskare som inte uppgetts som medverkande i formuläret).
+
 ## Analytiska utgångspunkter
 
 
