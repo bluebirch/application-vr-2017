@@ -6,17 +6,13 @@ Till psykiatrin kommer som regel människor med ett psykiskt lidande.[^1] Detta 
 
 Oftast förstås patientens lidande på mer än ett sätt samtidigt, men det inom psykiatrin dominerande *diagnostiska språket* \cite{DSM-5,ICD-10} premierar individuella, medicinska förståelser på bekostnad av sociala och sociokulturella \cite{Hallerstedt2006,Johannisson2013,Johannisson2015,Svenaeus2015,Svenaeus2016}. Som regel är en psykiatrisk diagnos förutsättningen för att få hjälp inom psykiatrin över huvud taget, inte minst för att den psykiatriska verksamheten på många håll i Sverige är organiserad utifrån diagnoser. Även psykiskt lidande som i första hand har att göra med patientens sociala omständigheter och livssituation riskerar därför att individualiseras och *medikaliseras* \cite{Conrad2008,Kaatari2013,ParensJohnston2011,Bell2016}. 
 
-*Syftet* med föreliggande projekt är att fördjupa förståelsen för hur behandlande personal inom svensk psykiatrisk vård så att säga navigerar mellan olika förståelser[^3] av sina patienters psykiska ohälsa, med särskilt fokus på möjligheterna att förhålla sig till och agera utifrån *olika* förståelser. Specifika frågeställningar:
+*Syftet* med föreliggande projekt är att fördjupa förståelsen för hur behandlande och utredande personal inom svensk psykiatrisk vård så att säga navigerar mellan olika förståelser[^3] av sina patienters psykiska ohälsa, med särskilt fokus på möjligheterna att förhålla sig till och agera utifrån *olika* förståelser. Specifika frågeställningar:
 
-* Vilka möjligheter har behandlare inom psykiatrin att agera utifrån olika förståeler av sina patienters psykiska ohälsa? Finns här diskursiva, organisatoriska, institutionella begränsningar?
+* Vilka möjligheter har behandlare och utredare att agera utifrån olika förståeler av sina patienters psykiska ohälsa? Finns här diskursiva, organisatoriska, institutionella begränsningar?
 
-* Hur gör behandlare inom psykiatrin för att eftersträva "en god hälsa och en vård på lika villkor" (2 § Hälso- och sjukvårdslagen [1982:763]) för alla patienter? Finns motsättningar mellan verksamhetsmål som jämställdhet, likabehandling och mångfald \cite[se t. ex.][]{SLL2006,SLL2011,SLL2016}
+* Hur gör behandlare och utredare för att uppnå kravet på "en god hälsa och en vård på lika villkor" (2 § Hälso- och sjukvårdslagen [1982:763]) i mötet med sina patienter? Upplevs motsättningar mellan å ena sidan verksamhetsmål som jämställdhet, likabehandling och mångfald \cite[se t. ex.][]{SLL2006,SLL2011,SLL2016}, å andra sidan en medikaliserande förståelse av psykisk ohälsa? Om så är fallet, hur hanteras den motsättningen?
 
-<!-- ”En god hälsa och en vård på lika villkor för hela befolkningen”, är en målsättning för sjukvården i Hälso och sjukvårdslagen (HSL, 2 §). Utöver denna övergripande               målsättning har många vårdorganisationer även framtagit lokala policys och riktlinjer avseende exempelvis jämställdhet, likebhehandling eller mångfald (t ex: Stockholms läns landsting, 2006, 2011, 2014-16). Frågeställningen syftar till ett belysa hur dessa ideal och målsättningar "landar" hos sjukvårdspersonalen och kommer till uttryck i patientkontakten.
- -->  
-
-* *Hur förstår och förhåller sig sjukvårdspersonalen till den pykiska ohälsans ojämna fördelning mellan personer tillhörande olika sociala kategorseringar?*
-Omfattande skillnader avseende förekomsten av psykisk ohälsa mellan personer tillhörande olika sociala kategorier utifrån exempelvis kön, sexuell läggning, könsuttryck, etnicitet, socioekonomisk status och så vidare, har påvisats återkommande i nationella utredningar och forskningsöversikter (Socialstyrelsen, 2013; Statens folkhälsoinstitut, 2005; SOU, 2006, 2015; SKL, 2014; Ungdomsstyrelsen, 2010). 
+* Hur förstår och förhåller sig behandlare och utredare till det faktum att psykisk ohälsa är mycket ojämnt fördelat mellan patienter hörande till olika sociala kategorier \cite[kön, sexuell läggning, könsuttryck, etnicitet, socioekonomisk status och så vidare; se][]{Socialstyrelsen2013,SFHI2005,SOU2006:78,SOU2015:86,SKL2014,Ungdomsstyrelsen2010}?
     
 * *Hur är olika synsätt kring psykisk ohälsa, relaterade till utredarna och behandlarna uppfattningar om vad ett professionellt förhållningssätt ska innebära.*
 

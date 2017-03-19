@@ -17,13 +17,14 @@ def action(elem, doc):
             prefix = m.group(2)
             suffix = m.group(3)
             citations = list()
-            for key in keys:
+            last_key = len(keys) - 1
+            for i, key in enumerate(keys):
                 citation = Citation( key )
                 if citationtype == 't':
                     citation.mode = 'AuthorInText'
-                if prefix:
+                if prefix and i == 0:
                     citation.prefix = [ Str( prefix ) ]
-                if suffix:
+                if suffix and i == last_key:
                     citation.suffix = [ Str( suffix ) ]
                 citations.append( citation )
             return Cite( Str('bogus'), citations=citations )
