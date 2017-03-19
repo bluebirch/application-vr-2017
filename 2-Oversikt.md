@@ -4,13 +4,15 @@ Psykisk ohälsa, som socialt och samhälleligt fenomen, är ett välutforskad om
 
 Den samlade kunskapen kring psykisk ohälsa som sociokulturellt fenomen, och som en social kategori med starka kopplingar till andra former av sociala kategoriseringar, är således omfattande. Forskning som undersökt betydelsen av dessa synsätt kring psykisk ohälsa i relation till den psykiatriska sjukvården, är däremot ytterst sällsynt. Medan flera svenska studier de senaste deccennierna har fokuserat på sjukvårdens bemötande av patienter utifrån genus-, jämlikhets- eller rättviseaspekter, saknas väsentligen studier som har utforskat denna typ av frågor specifikt i relation till psykiatrin (Björk, 2016; Hammarström, 1999; Hedegaard, 2014; Westerståhl, 2003). Å ena sidan utgör psykiatrin en mindre del av den övergripande sjukvårdskontexten, men de psykiatriska diagnosernas sociokulturella dimensioner, deras framträdande kopplingar till sociala kategorier utifrån kön, etnicitet och socioekonomisk status, samt avsaknaden av kända fysiologiska/biologiska orsaksmekanismer bakom de vanligast förekommande psykiatriska sjukdomskoncepten (REF??), gör psykiatrin till en sjukvårdskontext som även särskiljer sig från sjukvården som helhet. 
 
-Relevansen för området av Stefans forskning + psykolog
+Här tror jag vi får vi hjälpas åt, dels med hur jag ska beskriva din forskning, men kanske även med hur de andra ska presenteras - ska titlar stå, och vilka är relevanta då?
 
-Gunnar
+Stefan Björk...
 
-Eva
+Gunnar Karlsson har studerat hälso- och sjukdomskoncept, i relation till självuppelvelse och identitetsutveckling, hos exmpelvis blinda personer och personer med erfarenhet av psykos (Karlsson 1999, 2011). För närvarande leder han ett forskningprojekt kring socialisering, identitetsutveckling och maskuliniteter (Karlsson, 2014, 2016). Karlsson är även privatpraktiserande psykolog, psykoterapeut och psykoanalytiker, och har i relation till detta studerat vetenskapsteoretiska frågor kring psykisk ohälsa och behandling (Karlsson, 2004, 2009, 2011). 
 
-Robert
+Eva Magnusson...
+
+Robert Ohlssons forskning har handlat om psykisk ohälsa, som samhälleligt och relationellt fenomen och som en form av social kategorisering med mycket stor betydelse för människors självupplevelse och identitetsutveckling (Ohlsson, 2009, 2011, in press). 
 
 
 
@@ -41,5 +43,14 @@ Westerståhl (2003) Encounters in the medical context – issues of gender and s
 
 Hammarström, A. (1999)”Why feminism in public health?” Temanummer. Feminist Research on Public Health. Scandinavian Journal of Public Health 27 (4) 241–244. 
 
+Karlsson, G. (1999). Leva som blind: Fenomenologisk-psykologiska undersökningar. Stockholm: Carlsson Bokförlag
+
+*Karlsson, G. (2014). Masculinity as project: Some psychoanalytic reflections. NORMA: International Journal for Masculinity Studies, 9, no. 4, 249-268. (Denna artikel kommer också att publiceras i Teksty Drugie (Second Texts), vol. 2, 2015.)
+
+Karlsson, G. (2016) Phallic stage. In V. Zeigler-Hill & T.K. Schackleford (eds.), Encyclopedia of personality and individual differences. Springer International Publishing. 
+
+Karlsson, G. (2004) Psykoanalysen i ny belysning. Stockholm: Brutus Östlings förlag
+
+Karlsson, G. (2011). Evidensbegreppet och att göra den psykoanalytiska erfarenheten rättvisa. Divan, nr. 3-4/2011, 123-31.
 
 
