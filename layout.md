@@ -3,3 +3,4 @@
 3-Projektbeskrivning.md
 4-Betydelse.md
 5-Resultat.md
+6-Bidrag.md
