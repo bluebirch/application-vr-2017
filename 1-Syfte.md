@@ -24,4 +24,3 @@ Dessa frågor ämnar vi närma oss genom att intervjua behandlare och utredare i
 
 [^3]: Med "förståelse" avses här vad som ofta benämns *diskurs*, dvs. kulturella meningssystem eller "sätt att tala om" en viss företeelse som gör att företeelsen förstås som ett visst *slag* av företeelse, så som till exempel den *medicinskt--diagnostiska diskursen* förstår psykisk ohälsa som ett individuellt, medicinskt problem \cite{MagnussonMarecek2010}. I diskursanalytiska sammanhang används ofta termen *tolkningsrepertoarer* \cite{PotterWetherell1987}.
 
-[^4]: 2 § Hälso- och sjukvårdslagen (1982:763).
