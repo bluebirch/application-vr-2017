@@ -7,7 +7,7 @@ fulltext.%: meta.yaml $(shell cat layout.md) refs.md
 
 refs:
 	cp -av $(bib) tmp.bib
-	bibtool --preserve.key.case=on --print.line.length=9999 --print.align.key=0 --print.use.tab=off --symbol.type=lower -s -r sort_fld.rsc -i tmp.bib > $(bib)
+	cat tmp.bib | bibtool --preserve.key.case=on --print.line.length=9999 --print.align.key=0 --print.use.tab=off --symbol.type=lower -s -r sort_fld.rsc > $(bib)
 
 clean:
 	rm -f fulltext.*
