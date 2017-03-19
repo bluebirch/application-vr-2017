@@ -12,7 +12,7 @@ Oftast förstås patientens lidande på mer än ett sätt samtidigt, men det ino
 
 * Förekommer dilemman i mötet mellan behandlare/utredare och patient som har att göra med förståelsen av psykisk ohälsa, uppfattningen yrkesmässigt/professionellt förhållningssätt och inom psykiatrin diskursiva och organisatoriska möjligheter och begränsningar? Om så är fallet, hur hanteras sådana dilemman?
 
-* Hur gör behandlare och utredare för att uppnå kravet på "en god hälsa och en vård på lika villkor"[^4] i mötet med sina patienter? Upplevs motsättningar mellan å ena sidan verksamhetsmål som jämställdhet, likabehandling och mångfald \cite[se t. ex.][]{SLL2006,SLL2011,SLL2016}, å andra sidan en medikaliserande förståelse av psykisk ohälsa? Om så är fallet, hur hanteras den motsättningen?
+* Hur gör behandlare och utredare för att uppnå kravet på "en god hälsa och en vård på lika villkor"[^4] i mötet med sina patienter? Upplevs motsättningar mellan å ena sidan verksamhetsmål som jämställdhet, likabehandling och mångfald \cite[se t. ex.][]{SLL2006,SLL2011}, å andra sidan en medikaliserande förståelse av psykisk ohälsa? Om så är fallet, hur hanteras den motsättningen?
 
 * Hur förstår och förhåller sig behandlare och utredare till det faktum att psykisk ohälsa är mycket ojämnt fördelat mellan patienter hörande till olika sociala kategorier \cite[kön, sexuell läggning, könsuttryck, etnicitet, socioekonomisk status och så vidare; se][]{Socialstyrelsen2013,SFHI2005,SOU2006:78,SOU2015:86,SKL2014,Ungdomsstyrelsen2010}?
     
