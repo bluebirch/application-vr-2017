@@ -1,1 +1,1 @@
-Social kategorisering och psykisk ohälsa i svensk psykiatri
+Förståelser av psykisk ohälsa i relation till social kategorisering och likabehandling bland behandlare och utredare inom svensk psykiatri
