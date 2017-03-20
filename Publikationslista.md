@@ -29,7 +29,7 @@ header-includes:
 
 ## Fackgranskade konferensbidrag
 
-**Björk**, S. (2013). *[Theories of Depression: Explanations of Justifications?](https://www.academia.edu/3635342/Theories_of_Depression_Explanations_or_Justifications)* Paper presented at Thinking Critically about Psychology: Power, Gender and Psychological Practice, May 31, Umeå, Sweden.
+\textasteriskcentered{}**Björk**, S. (2013). *[Theories of Depression: Explanations of Justifications?](https://www.academia.edu/3635342/Theories_of_Depression_Explanations_or_Justifications)* Paper presented at Thinking Critically about Psychology: Power, Gender and Psychological Practice, May 31, Umeå, Sweden.
 
 **Björk**, S. (2013). *[Living the 'New Father': Men's Parenting and Masculinities in the Nordic Countries](https://www.academia.edu/2938364/Living_the_New_Father_Men_s_Parenting_and_Masculinities_in_the_Nordic_Countries)*. Paper presented at the 3rd Global Conference on Femininities and Masculinities, May 14--21, Prague, Czech Republic.
 
@@ -42,9 +42,9 @@ header-includes:
 **Karlsson**, G. & Sjöberg, L. G. (2009). The experience of guilt and shame: A
 phenomenological-psychological study. *Human Studies, 32*, 335--355.
 
-Leiviskä Deland, A-Ch., **Karlsson**, G. & Fatouros-Bergman, H. (2011). A phenomenological analysis of the psychotic experience. *Human Studies, 34*, 23--42.
+\textasteriskcentered{}Leiviskä Deland, A-Ch., **Karlsson**, G. & Fatouros-Bergman, H. (2011). A phenomenological analysis of the psychotic experience. *Human Studies, 34*, 23--42.
 
-**Karlsson**, G. (2014). Masculinity as project: Some psychoanalytic reflections. *NORMA: International Journal for Masculinity Studies 9*(4), 249.-268.
+\textasteriskcentered{}**Karlsson**, G. (2014). Masculinity as project: Some psychoanalytic reflections. *NORMA: International Journal for Masculinity Studies 9*(4), 249.-268.
 
 **Karlsson**, G. (2015). Psychoanalysis and meaning: a comment on Arild Utaker’s 'Images and words': a reconsideration of the psychic dimension. *The Scandinavian Psychoanalytic Review, 38*, 52--54.
 
@@ -72,7 +72,7 @@ aesthemetics: aesthetics, emotions and ethics in a new leadership concept. I J. 
 
 **Karlsson**, G. (2009). Relationen mellan fenomenologin och psykoanalysen. *Divan* (1--2), 4--15.
 
-**Karlsson**, G. (2011). Evidensbegreppet och att göra den psykoanalytiska erfarenheten rättvisa. *Divan* (3--4), 123--131.
+\textasteriskcentered{}**Karlsson**, G. (2011). Evidensbegreppet och att göra den psykoanalytiska erfarenheten rättvisa. *Divan* (3--4), 123--131.
 
 **Karlsson**, G. (2012). Maskuliniteten som projekt. *Divan* (1--2), 15--25.
 
@@ -112,7 +112,7 @@ Norberg, M., **Magnusson**, E., Thyme, K. E., Åström, S., Lindh, J., & Öster,
 
 **Magnusson**, E. (2013). Making up (new) women: Conceptions of women in the history of the swedish welfare state. In Å. Gunnarsson (Ed.), *Tracing the women-friendly welfare state: Gendered politics of everyday life in sweden*. Göteborg: Makadam.
 
-**Magnusson**, E., & Haavind, H. (2011). Feminist approaches to psychology in the nordic countries: The fates of feminism in psychology in modern welfare societies. In A. Rutherford, R. Capdevila, V. Undurti, & I. Palmary (Eds.), *Handbook of international feminisms* (pp. 151–174). New York: Springer.
+\textasteriskcentered{}**Magnusson**, E., & Haavind, H. (2011). Feminist approaches to psychology in the nordic countries: The fates of feminism in psychology in modern welfare societies. In A. Rutherford, R. Capdevila, V. Undurti, & I. Palmary (Eds.), *Handbook of international feminisms* (pp. 151–174). New York: Springer.
 
 **Magnusson**, E., & Marecek, J. (2010). *Genus och kultur i psykologi: Teorier och tillämpningar*. Stockholm: Natur & Kultur.
 
@@ -163,7 +163,7 @@ Olin Lauritzen, S. & **Ohlsson**, R. (2006). 'Social representations and the nar
 
 ## Böcker och bokkapitel
 
-**Ohlson**, R. (publiceras under 2017). Bilder av barn och ungas psykiska problem: det problematiska identifierandet av psykisk ohälsa under uppväxten. I S. Olin Lauritzen & E. Jeppsson Grassman (red.) *Frisk och sjuk under livets olika skeden – ett livsloppsperspektiv på hälsa och ohälsa.* Lund: Studentlitteratur.
+\textasteriskcentered{}**Ohlson**, R. (publiceras under 2017). Bilder av barn och ungas psykiska problem: det problematiska identifierandet av psykisk ohälsa under uppväxten. I S. Olin Lauritzen & E. Jeppsson Grassman (red.) *Frisk och sjuk under livets olika skeden – ett livsloppsperspektiv på hälsa och ohälsa.* Lund: Studentlitteratur.
 
 \textasteriskcentered{}**Ohlsson**, R. (2011). Diagnosens roll i vardagligt meningsskapande om psykisk ohälsa. I L-C. Hydén & G. Drakos (red.) *Diagnos och identitet*. Stockholm: Gothia.
 
