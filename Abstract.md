@@ -1,3 +1,3 @@
-# Abstract
+## Abstract
 
-...
+Psychiatric treatment is sought by and offered to people who are experiencing or expressing some sort of mental suffering. This suffering can potentially be understood and treated in a variety of different ways, for example as a medical, psychological or social problem. The purpose of this research project is to gain a deeper understanding of how psychiatric health care professionals navigate between these different understandings or concepts of mental illness. In psychiatric health care medical and psychological views of mental illness, as expressed in psychiatric diagnostic manuals, are predominant. Although variances in mental in mental illness, in relation to social categories such as gender, ethnicity and socioeconomic status are frequently studied, it is not known how psychiatric health care professionals make use of socio-cultural understandings of mental illness, in relation to their daily work with patients.
