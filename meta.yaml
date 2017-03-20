@@ -1,7 +1,8 @@
 ---
 title: "Projektplan"
-author: Stefan Björk
 lang: sv-SE
 csl: apa.csl
 mainfont: Minion Pro
+fontsize: 12pt
+header-includes: \usepackage{a4wide}
 ...
