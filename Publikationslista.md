@@ -118,13 +118,13 @@ Norberg, M., **Magnusson**, E., Thyme, K. E., Åström, S., Lindh, J., & Öster,
 
 **Magnusson**, E., & Marecek, J. (2010). Sociocultural means to feminist ends: Discursive and constructionist psychologies of gender. In S. R. Kirschner & J. Martin (Eds.), *The sociocultural turn in psychology: The contextual emergence of mind and self* (pp. 88–110). New York: Columbia University Press.
 
-**Magnusson**, E., & Marecek, J. (2012). *Gender and culture in psychology: Theories and practices*. Cambridge University Press.
+\textasteriskcentered{}**Magnusson**, E., & Marecek, J. (2012). *Gender and culture in psychology: Theories and practices*. Cambridge University Press.
 
 **Magnusson**, E., & Marecek, J. (2015). *Doing interview-based qualitative research: A learner’s guide*. Cambridge University Press.
 
 **Magnusson**, E., & Marecek, J. (2017, in press). Feminisms, psychologies, and the study of social life. In *The palgrave handbook of critical social psychology*. London: Palgrave.
 
-**Magnusson**, E., & Marecek, J. (2017, in press). Setting the stage: Gender, sex, and sexualities in psychology. In N. Dess et al (Ed.), *The psychology of gender, sex, and sexuality*. Oxford University Press.
+\textasteriskcentered{}**Magnusson**, E., & Marecek, J. (2017, in press). Setting the stage: Gender, sex, and sexualities in psychology. In N. Dess et al (Ed.), *The psychology of gender, sex, and sexuality*. Oxford University Press.
 
 Marecek, J., & **Magnusson**, E. (2017, in press). Qualitative inquiry in feminist psychology. In J. White & C. Travis (Eds.), *APA handbook of the psychology of women*.
 
