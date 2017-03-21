@@ -16,7 +16,7 @@ Oftast förstås patientens lidande på mer än ett sätt samtidigt, men det ino
 
 Dessa frågor ämnar vi närma oss genom att intervjua behandlare och utredare i psykiatrin om deras yrkesmässiga praktik. Utgångspunkten är en sociokulturell förståelse av psykisk ohälsa, vilket inte utesluter medicinska förståelser men väl strävar efter att infoga dem i ett historiskt och kulturellt sammanhang. Detta återkommer vi till i avsnitt 3 nedan.
 
-[^1]: "Som regel" därför att till psykiatrin kommer också människor som inte själva upplever ett lidande eller ens problem, till exempel vid tvångsvård enlgit LPT eller LVU.
+[^1]: "Som regel" därför att till psykiatrin kommer också människor som inte själva upplever ett lidande eller ens problem, till exempel vid tvångsvård enligt LPT eller LVU.
 
 [^2]: Detta är inte en uttömmande uppräkning -- här kan till exempel en existentiell förståelse och flera varianter av psykologiska förståelser läggas till -- utan exempel som syftar till att illustrerar att här finns *flera* ibland motsägelsefulla förståelser.
 
