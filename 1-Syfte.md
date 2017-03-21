@@ -8,7 +8,7 @@ Oftast förstås patientens lidande på mer än ett sätt samtidigt, men det ino
 
 * Vilka möjligheter har behandlare och utredare att agera utifrån olika förståeler av sina patienters psykiska ohälsa? Finns här diskursiva, organisatoriska, institutionella begränsningar?
 
-* Förekommer dilemman i mötet mellan behandlare/utredare och patient som har att göra med förståelsen av psykisk ohälsa, uppfattningen yrkesmässigt/professionellt förhållningssätt och inom psykiatrin diskursiva och organisatoriska möjligheter och begränsningar? Om så är fallet, hur hanteras sådana dilemman?
+* Förekommer dilemman i mötet mellan behandlare/utredare och patient som har att göra med förståelsen av psykisk ohälsa, uppfattningen om yrkesmässigt/professionellt förhållningssätt och inom psykiatrin diskursiva och organisatoriska möjligheter och begränsningar? Om så är fallet, hur hanteras sådana dilemman?
 
 * Hur förstår och förhåller sig behandlare och utredare till det faktum att psykisk ohälsa är mycket ojämnt fördelat mellan patienter hörande till olika sociala kategorier \cite[kön, sexuell läggning, könsuttryck, etnicitet, socioekonomisk status och så vidare; se t. ex.][]{SOU2015:86,SOU2006:78,SKL2014}?
 
