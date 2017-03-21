@@ -11,6 +11,8 @@ Oftast förstås patientens lidande på mer än ett sätt samtidigt, men det ino
 * Förekommer dilemman i mötet mellan behandlare/utredare och patient som har att göra med förståelsen av psykisk ohälsa, uppfattningen yrkesmässigt/professionellt förhållningssätt och inom psykiatrin diskursiva och organisatoriska möjligheter och begränsningar? Om så är fallet, hur hanteras sådana dilemman?
 
 * Hur förstår och förhåller sig behandlare och utredare till det faktum att psykisk ohälsa är mycket ojämnt fördelat mellan patienter hörande till olika sociala kategorier \cite[kön, sexuell läggning, könsuttryck, etnicitet, socioekonomisk status och så vidare; se t. ex.][]{SOU2015:86,SOU2006:78,SKL2014}?
+
+* Vilka möjligheter har behandlare och utredare att konkret arbeta med jämlikhets- och likabehandlingsfrågor så som de formuleras i lagtext (2 § Hälso- och sjukvårdslagen [1982:763]) och policydokument \cite[t. ex.][]{SLL2006,SLL2011,SLL2016}?
     
 * Vad innebär eventuella dilemman och motsättningar i patientbemötandet för behandlare/utredare själva? Hur uppfattar de sig själva och sin yrkesroll? I vilken utsträckning kan känslomässiga aspekter av yrket som exempelvis stolthet, glädje, frustration, besvikelse och uppgivenhet förknippas med sådana dilemman och motsättningar?
 
