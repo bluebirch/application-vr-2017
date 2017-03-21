@@ -1,1 +1,1 @@
-Förståelser av psykisk ohälsa i relation till social kategorisering och likabehandling bland behandlare och utredare inom svensk psykiatri
+Mellan psykiatrisk diagnostik och likabehandling: förståelser av psykisk ohälsa bland behandlare och utredare i svensk psykiatri
