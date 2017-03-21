@@ -1,6 +1,3 @@
 # Preliminära resultat
 
-
-> Beskriv dina egna försök och förstudier inom forskningsområdet. Ange även om det inte föreligger några preliminära resultat.
-
-Även om flera tidigare studier anknyter till området
+Även om Stefan Björks doktorsavnahdnling har att göra med mötet mellan patient och sjukvårdspersonal \cite{Bjork2016} har vi inte genomfört några tidigare studier som anknyter specifikt till det psykiatriska sammanhanget.
